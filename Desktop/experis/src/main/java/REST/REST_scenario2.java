@@ -4,9 +4,6 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-/**
- * Created by patrycja on 31.01.2019.
- */
 public class REST_scenario2 {
     Function f;
     @Test
